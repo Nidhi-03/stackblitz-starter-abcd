@@ -1,8 +1,21 @@
 .container {
   display: flex;
   flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  border: 1px solid #eee;
+  height: 38vh;
+  width: 15rem;
+  background-color: bisque;
+}
+.avatar{
+  display: flex;
   justify-content: center;
   align-items: center;
-  padding: 0.1rem;
-  border: 1px solid #ccc;
+  height: 9rem;
+  width: 100%;
+  background-color: pink;
+}
+.avatar>img{
+  height: 9rem;
 }
