@@ -19,3 +19,14 @@
 .avatar>img{
   height: 9rem;
 }
+.name-id{
+  font-family: 'Amita', cursive;
+  font-size: 12px;
+}
+/* .field{
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 20px;
+} */
+.info{
+  font-size: 15px;
+}

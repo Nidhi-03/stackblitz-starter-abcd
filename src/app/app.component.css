@@ -17,7 +17,7 @@
 }
 .hero-detail{
   height: 50vh;
-  width: 60%;
+  width: 100%;
   box-shadow: 2px 2px 3px rgba(7, 7, 7, 0.3);
   border: 1px solid #ccc; 
   /* background-color: cornsilk; */
